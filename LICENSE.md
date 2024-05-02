@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2020 Beamworks Enterprise Software Inc.
+Copyright (c) 2020 Beamworks Enterprise Software Inc.  
 Copyright (c) 2024 Simplyhealth Group Ltd.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
